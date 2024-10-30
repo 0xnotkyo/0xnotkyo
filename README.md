@@ -40,6 +40,6 @@
 
 <br clear="both">
 
-<img src="./img/Snake animation.svg" alt="Snake animation" />
+<img src="./img/snake.svg" alt="Snake animation" />
 
 ###
