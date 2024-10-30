@@ -37,3 +37,9 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<img src="./img/github-user-contribution.svg" alt="Snake animation" />
+
+###
