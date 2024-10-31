@@ -3,7 +3,7 @@
 
 ###
 
- <h4 align="center">I am Najwa, I am a red teamer, pentester with a passion for cybersecurity & ethic hacking. I constantly strive to improve my skills and knowledge with the goal of excelling as an adversary emulation specialist.</h4>
+ <h4 align="center">I am Najwa, I am a red teamer, pentester with a passion for cybersecurity & ethic hacking.</h4>
 
  ###
 
