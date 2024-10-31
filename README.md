@@ -32,7 +32,7 @@
 <div align="center">
   <a href="" target="_blank">
   <a href="https://x.com/sickqrlz" target="_blank">
-    <img src="./img/twitterpanel.png" height="40" alt="twitter logo"  />
+  <img src="./img/twitterpanel.png" height="40" alt="twitter logo"  />
   </a>
 </div>
 
