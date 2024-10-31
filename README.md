@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi World!👋 <a href="https://najw4h.github.io/notkyo.md/" target="_blank">I'm najwah!<a></h1>
+<h1 align="center">Hi World!👋 <a href="https://najw4h.github.io/najw4h/" target="_blank">I'm najwah!<a></h1>
 
 ###
 
