@@ -21,12 +21,10 @@
     <img src="./img/linux_logo_icon_168243.webp" height="45" alt="linux logo" />
     <img src="./img/bash.png" height="45" alt="bash logo" />
     <img src="./img/Visual_Studio_Code_1.35_icon.svg.png" height="45" alt="visual logo" />   
-    </a>
 </div>
 
 <div align="center">
     <img height="300" src="./img/74635989b770a38189fff31a8ef152ea.gif" />
-    </a>
 </div>
 
 <div align="center">
