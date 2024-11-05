@@ -23,7 +23,7 @@
     <img src="./img/Visual_Studio_Code_1.35_icon.svg.png" height="45" alt="visual logo" />   
 </div>
 
-<div align="center">
+<div align="center" style="margin-bottom: 20px;">
     <img height="300" src="./img/74635989b770a38189fff31a8ef152ea.gif" />
 </div>
 
