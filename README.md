@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi World!👋 <a href="https://najw4h.github.io/najw4h/" target="_blank">I'm najwah!<a></h1>
+<h1 align="center">Greeting <a href="https://najw4h.github.io/najw4h/" target="_blank">I'm najwah!<a></h1>
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i>
 
 ###
 
