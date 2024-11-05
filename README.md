@@ -2,17 +2,12 @@
 <!-- Profile -->
 <p align="center">
     <samp>
-        <b>Hello World!👋 <a href="https://najw4h.github.io/najw4h/" target="_blank">I'm najwah!</a></b>
+        <p>Hello World!👋 <a href="https://najw4h.github.io/najw4h/" target="_blank">I'm najwah!</i></p>
         <img src="./img/constellation.gif" width="30px" alt="Git" />
         <br>
-        <p align="center"><b>I am Najwa, a red teamer, pentester with a passion for cybersecurity & ethical hacking.</b></p>
-        <style>
-    .spaced-img {
-        margin-bottom: 20px;
-    }
-</style>
+        <p align="center"><b>I am Najwa, a red teamer, pentester with a passion for cybersecurity & ethical hacking.</i></p>
         <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&weight=300&size=16&pause=1000&color=F710DF&width=400&lines=I+do+it+for+the+stars.">
-        <p align="center"><b>~ Yours Truly ~</b></p>
+        <p align="center"><b>~ Yours Truly ~</i></p>
     </samp>
 </div>
 
