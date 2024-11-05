@@ -14,7 +14,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&weight=300&size=16&pause=1000&color=F710DF&width=400&lines=I+do+it+for+the+stars.">
 <br>
 <b>
-  ~ Yours Truly ~
+ <h4 align="center">~ Yours Truly ~</h4>
 </b>
 </samp>
 </p>
