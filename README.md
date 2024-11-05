@@ -11,7 +11,7 @@
  <h4 align="center">I am Najwa, I am a red teamer, pentester with a passion for cybersecurity & ethic hacking.</h4>
 </b>
 <br>
-  <h4 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&weight=300&size=16&pause=1000&color=F710DF&width=400&lines=I+do+it+for+the+stars."></h4>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&weight=400&size=16&pause=1000&color=F710DF&width=400&lines=I+do+it+for+the+stars.">
 <br>
 <b>
  <h4 align="center">~ Yours Truly ~</h4>
