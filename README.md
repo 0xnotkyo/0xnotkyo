@@ -11,7 +11,7 @@
  <h4 align="center">I am Najwa, I am a red teamer, pentester with a passion for cybersecurity & ethic hacking.</h4>
 </b>
 <br>
- <img src="./img/starts.gif" width="30px" alt="Git"/>&nbsp;<i>
+ <img src="./img/starts.svg" width="30px" alt="Git"/>&nbsp;<i>
    
  ###
 
