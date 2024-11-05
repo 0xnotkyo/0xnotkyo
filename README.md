@@ -23,13 +23,13 @@
     <img src="./img/Visual_Studio_Code_1.35_icon.svg.png" height="45" alt="visual logo" />   
 </div>
 
-<h2 style="display: none;">Este encabezado es invisible</h2>
+<h2 style="color: transparent;">Este encabezado es invisible</h2>
 
 <div align="center">
     <img height="300" src="./img/74635989b770a38189fff31a8ef152ea.gif" />
 </div>
 
-<h2 style="display: none;">Este encabezado es invisible</h2>
+<h2 style="color: transparent;">Este encabezado es invisible</h2>
 
 <div align="center">
     <a href="https://x.com/sickqrlz" target="_blank">
