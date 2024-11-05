@@ -6,7 +6,7 @@
         <img src="./img/constellation.gif" width="30px" alt="Git" />
         <br>
         <p align="center"><b>I am Najwa, a red teamer, pentester with a passion for cybersecurity & ethical hacking.</b></p>
-        <img src="./img/stars.svg" weight=400&size=16&pause=1000&color=F710DF width=400&lines=I+do+it+for+the+stars.">
+        <img src="./img/stars.svg" weight=400&size=16&pause=1000&color=F710DF &width=400&lines=I+do+it+for+the+stars.">
         <p align="center"><b>~ Yours Truly ~</b></p>
     </samp>
 </div>
