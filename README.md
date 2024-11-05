@@ -24,13 +24,11 @@
 </div>
 
 <h2 style="color: transparent;
-
 <div align="center">
     <img height="300" src="./img/74635989b770a38189fff31a8ef152ea.gif" />
 </div>
 
 <h2 style="color: transparent;
-
 <div align="center">
     <a href="https://x.com/sickqrlz" target="_blank">
         <img src="./img/twitterpanel.png" height="40" alt="twitter logo" />
