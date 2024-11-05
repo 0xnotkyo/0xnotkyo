@@ -4,14 +4,15 @@
     <samp>
       <b>
         Hello World!👋 <a href="https://najw4h.github.io/najw4h/" target="_blank">I'm najwah!<a></h1>
-        <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i>
-      <br>
-         
-###
+        <img src="./img/constellation.gif" width="30px" alt="Git"/>&nbsp;<i>
+      <br> 
 
 <br>
  <h4 align="center">I am Najwa, I am a red teamer, pentester with a passion for cybersecurity & ethic hacking.</h4>
-
+</b>
+<br>
+ <img src="./img/starts.gif" width="30px" alt="Git"/>&nbsp;<i>
+   
  ###
 
 <br clear="both">
