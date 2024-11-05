@@ -9,8 +9,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&weight=400&size=16&pause=1000&color=F710DF&width=400&lines=I+do+it+for+the+stars.">
         <p align="center"><b>~ Yours Truly ~</b></p>
     </samp>
-</p>
-<p align="right"><strong><samp>」</samp></strong></p>
+</div>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1045">
