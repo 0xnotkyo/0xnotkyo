@@ -16,7 +16,7 @@
 </div>
 
 <!-- About me -->
-<div align="center">
+<div align="center"> style="margin-bottom: 20px;">
     <img src="./img/htbSinFondo.png" height="45" alt="hack the box logo" />
     <img src="./img/linux_logo_icon_168243.webp" height="45" alt="linux logo" />
     <img src="./img/bash.png" height="45" alt="bash logo" />
