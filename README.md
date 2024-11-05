@@ -7,6 +7,8 @@
         <br>
         <p align="center"><b>I am Najwa, a red teamer, pentester with a passion for cybersecurity & ethical hacking.</b></p>
         <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&weight=300&size=16&pause=1000&color=F710DF&width=400&lines=I+do+it+for+the+stars.">
+        <br>
+        <b>
         <p align="center"><b>~ Yours Truly ~</b></p>
     </samp>
 </div>
