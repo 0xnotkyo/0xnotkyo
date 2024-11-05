@@ -6,7 +6,7 @@
         <img src="./img/constellation.gif" width="30px" alt="Git" />
         <br>
         <p align="center"><b>I am Najwa, a red teamer, pentester with a passion for cybersecurity & ethical hacking.</b></p>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&weight=400&size=16&pause=1000&color=F710DF&width=400&lines=I+do+it+for+the+stars.">
+        <img src="./img/stars.svg" weight=400&size=16&pause=1000&color=F710DF width=400&lines=I+do+it+for+the+stars.">
         <p align="center"><b>~ Yours Truly ~</b></p>
     </samp>
 </div>
@@ -21,7 +21,7 @@
     <img src="./img/linux_logo_icon_168243.webp" height="45" alt="linux logo" />
     <img src="./img/bash.png" height="45" alt="bash logo" />
     <img src="./img/Visual_Studio_Code_1.35_icon.svg.png" height="45" alt="visual logo" />
-    </samp>
+    
 </div>
 
 <div align="center">
