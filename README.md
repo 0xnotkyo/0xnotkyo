@@ -3,21 +3,18 @@
   <p align="center">
     <samp>
       <b>
-        Hello World!👋 <a href="https://najw4h.github.io/najw4h/" target="_blank">I'm najwah!<a></h1>
+       Hello World!👋 <a href="https://najw4h.github.io/najw4h/" target="_blank">I'm najwah!</a>
         <img src="./img/constellation.gif" width="30px" alt="Git"/>&nbsp;<i>
       <br> 
 <b>
- <h4 align="center">I am Najwa, I am a red teamer, pentester with a passion for cybersecurity & ethic hacking.</h4>
+ <p align="center">I am Najwa, I am a red teamer, pentester with a passion for cybersecurity & ethic hacking.</h4>
 </b>
 <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&weight=400&size=16&pause=1000&color=F710DF&width=400&lines=I+do+it+for+the+stars.">
 <br>
 <b>
- <h4 align="center">~ Yours Truly ~</h4>
+ <p align="center">~ Yours Truly ~</h4>
 </b>
-</samp>
-</p>
-<p align="right"><strong><samp>」</samp></strong></p>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1045">
@@ -45,7 +42,7 @@
 
 <div align="center">
   <a href="" target="_blank">
-  <a href="https://x.com/sickqrlz" target="_blank">
+  <a href="https://x.com/sickqrlz" >
   <img src="./img/twitterpanel.png" height="40" alt="twitter logo"  />
   </a>
 </div>
