@@ -21,6 +21,7 @@
     <img src="./img/linux_logo_icon_168243.webp" height="45" alt="linux logo" />
     <img src="./img/bash.png" height="45" alt="bash logo" />
     <img src="./img/Visual_Studio_Code_1.35_icon.svg.png" height="45" alt="visual logo" />
+    </samp>
 </div>
 
 <div align="center">
