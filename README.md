@@ -1,7 +1,13 @@
 
-<h1 align="center">Greeting <a href="https://najw4h.github.io/najw4h/" target="_blank">I'm najwah!<a></h1>
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i>
-
+<!-- Profile -->
+<p align="left"><strong><samp>「</samp></strong></p>
+  <p align="center">
+    <samp>
+      <b>
+        Greeting <a href="https://najw4h.github.io/najw4h/" target="_blank">I'm najwah!<a></h1>
+        <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i>
+      <br>
+         
 ###
 
  <h4 align="center">I am Najwa, I am a red teamer, pentester with a passion for cybersecurity & ethic hacking.</h4>
