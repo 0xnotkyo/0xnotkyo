@@ -6,7 +6,7 @@
         Hello World!👋 <a href="https://najw4h.github.io/najw4h/" target="_blank">I'm najwah!<a></h1>
         <img src="./img/constellation.gif" width="30px" alt="Git"/>&nbsp;<i>
       <br> 
-<br>
+<b>
  <h4 align="center">I am Najwa, I am a red teamer, pentester with a passion for cybersecurity & ethic hacking.</h4>
 </b>
 <br>
