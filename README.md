@@ -11,12 +11,19 @@
  <h4 align="center">I am Najwa, I am a red teamer, pentester with a passion for cybersecurity & ethic hacking.</h4>
 </b>
 <br>
- <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&weight=300&size=16&pause=1000&color=F710DF&width=400&lines=I+do+it+for+the+stars.">
-   
- ###
+  <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&weight=300&size=16&pause=1000&color=F710DF&width=400&lines=I+do+it+for+the+stars.">
+<br>
+<b>
+  ~ Yours Truly ~
+</b>
+</samp>
+</p>
+<p align="right"><strong><samp>」</samp></strong></p>
 
-<br clear="both">
-
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1045">
+ 
+<!-- About me -->
 <div align="center">
   <img src="./img/htbSinFondo.png" height="45" alt="hack the box logo" />
   <img src="./img/linux_logo_icon_168243.webp" height="45" alt="linux logo" />
