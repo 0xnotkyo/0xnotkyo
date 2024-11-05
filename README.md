@@ -24,7 +24,7 @@
 </div>
 
 <div align="center">
-    <img height="300"weight=300 src="./img/74635989b770a38189fff31a8ef152ea.gif" />
+    <img height="300" src="./img/74635989b770a38189fff31a8ef152ea.gif" />
 </div>
 
 <div align="center">
