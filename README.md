@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-    <img height="300" src="./img/8d3793707fde5d7dd2f43e232d26547d.gif" />
+    <img height="300" src="./img/74635989b770a38189fff31a8ef152ea.gif" />
 </div>
 
 <div align="center">
