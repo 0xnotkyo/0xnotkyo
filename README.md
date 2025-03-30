@@ -5,7 +5,7 @@
         <b>Hello World!👋 <a href="https://najw4h.github.io/website/" >I'm najwah!</a></b>
         <img src="./img/constellation.gif" width="30px" alt="Git" />
         <br>
-        <p align="center"><b>I am Najwa, a red teamer, pentester with a passion for cybersecurity & ethical hacking.</b></p>
+        <p align="center"><b>I am Najwa aka 0xnotkyo, a red teamer, pentester with a passion for cybersecurity & ethical hacking.</b></p>
         <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&weight=300&size=16&pause=1000&color=4974a5&width=400&lines=I+do+it+for+the+stars.">
         <p align="center"><b>~ Yours Truly ~</b></p>
     </samp>
