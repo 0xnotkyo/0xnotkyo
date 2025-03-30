@@ -2,7 +2,7 @@
 <!-- Profile -->
 <p align="center">
     <samp>
-        <b>Hello World!👋 <a href="https://najw4h.github.io/website/" >I'm najwah!</a></b>
+        <b>Hello World!👋 <a href="https://0xnotkyo.github.io/website/" >I'm najwah!</a></b>
         <img src="./img/constellation.gif" width="30px" alt="Git" />
         <br>
         <p align="center"><b>I am Najwa aka 0xnotkyo, a red teamer, pentester with a passion for cybersecurity & ethical hacking.</b></p>
