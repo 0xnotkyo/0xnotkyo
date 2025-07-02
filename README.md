@@ -23,7 +23,7 @@
 
  <!-- Blog -->
  
-📝 **Blog**: I'm currently documenting my progress with cybersecurity and ethical hacking on my blog, which you can find [here](https://0xnotkyo.gitbook.io/notes/). 
+📝 **Blog**: I'm currently documenting my progress with cybersecurity and ethical hacking on my blog, which you can find [here](https://0xnotkyo.gitbook.io/notes/).
 
  <!-- Skills and Tools -->
 
