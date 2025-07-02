@@ -10,20 +10,26 @@
 - [Twitter](https://x.com/0xnotkyo)
 
  <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1045">
+<img src="./img/divider.gif">
 </div>
  
  <!-- Gif -->
 
  <div align="center">
-    <img height="300" src="./img/cybersec.jpg" />
+    <img height="300" src="./img/cybersec.jpg"/>
 </div>
 
 ###
 
+ <!-- Blog -->
+ 
 📝 **Blog**: I'm currently documenting my progress with cybersecurity and ethical hacking on my blog, which you can find [here](https://0xnotkyo.gitbook.io/notes/). 
+
+ <!-- Skills and Tools -->
 
  ## `🖥️` Skills and Tools:
 [![](https://skillicons.dev/icons?i=linux,obsidian,powershell,py,vim,bash,kali,vscode,windows,github,docker,go)](https://skillicons.dev)
+
+<!-- Snake animation -->
 
 <img src="./img/snake.svg" alt="Snake animation"/>
