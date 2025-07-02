@@ -1,36 +1,29 @@
-
 <!-- Profile -->
-<p align="center">
-    <samp>
-        <b>Hello World!👋 <a href="https://0xnotkyo.github.io/website/" >I'm Najwa!</a></b>
-        <img src="./img/constellation.gif" width="30px" alt="Git" />
-        <br>
-        <p align="center"><b>I am Najwa aka 0xnotkyo, a red teamer, pentester with a passion for cybersecurity & ethical hacking.</b></p>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&weight=300&size=16&pause=1000&color=4974a5&width=400&lines=I+do+it+for+the+stars.">
-        <p align="center"><b>~ Yours Truly ~</b></p>
-    </samp>
-</div>
 
-<!--horizontal divider(gradiant)-->
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=4BB388&width=435&lines=hey%2C+it's+0xnotkyo!;cybersecurity+%26+ethic+hacking;currently%3A+documenting+my+progress;currently%3A+learning+new+skills;currently%3A+solving+CTFs+challenges;currently%3A+making+my+scripts)](https://git.io/typing-svg)
+
+ <!-- About Me -->
+
+💬 **Me**: I am Najwa aka 0xnotkyo, a red teamer, pentester with a passion for cybersecurity & ethical hacking.
+
+#### Social:
+- [Twitter](https://x.com/0xnotkyo)
+
+ <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1045">
 </div>
+ 
+ <!-- Gif -->
 
-<!-- About me -->
-<div align="center">
-    <img src="./img/htbSinFondo.png" height="45" alt="hack the box logo" />
-    <img src="./img/linux_logo_icon_168243.webp" height="45" alt="linux logo" />
-    <img src="./img/bash.png" height="45" alt="bash logo" />
-    <img src="./img/Visual_Studio_Code_1.35_icon.svg.png" height="45" alt="visual logo" />   
+ <div align="center">
+    <img height="300" src="./img/cybersec.jpg" />
 </div>
 
-<div align="center">
-    <img height="300" src="./img/74635989b770a38189fff31a8ef152ea.gif" />
-</div>
+###
 
-<div align="center">
-    <a href="https://x.com/sickqrlz" target="_blank">
-        <img src="./img/twitterpanel.png" height="40" alt="twitter logo" />
-    </a>
-</div>
+📝 **Blog**: I'm currently documenting my progress with cybersecurity and ethical hacking on my blog, which you can find [here](https://0xnotkyo.gitbook.io/notes/). 
 
-<img src="./img/snake.svg" alt="Snake animation" />
+ ## `🖥️` Skills and Tools:
+[![](https://skillicons.dev/icons?i=linux,obsidian,powershell,py,vim,bash,kali,vscode,windows,github,docker,go)](https://skillicons.dev)
+
+<img src="./img/snake.svg" alt="Snake animation"/>
