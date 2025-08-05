@@ -28,7 +28,7 @@
  <!-- Skills and Tools -->
 
  ## `🖥️` Skills and Tools:
-[![](https://skillicons.dev/icons?i=linux,obsidian,powershell,py,vim,bash,kali,vscode,windows,github,docker,go)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=linux,obsidian,powershell,py,neovim,bash,kali,vscode,windows,github,docker,go,)](https://skillicons.dev)
 
 <!-- Snake animation -->
 
