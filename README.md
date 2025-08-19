@@ -30,6 +30,17 @@
  ## `🖥️` Skills and Tools:
 [![](https://skillicons.dev/icons?i=linux,obsidian,powershell,py,neovim,bash,kali,vscode,windows,github,docker,go,)](https://skillicons.dev)
 
+ <!-- Github Stats-->
+ 
+## GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=0xnotkyo&theme=tokyonight&show_icons=true&hide_border=true&count_private=false" height="160em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xnotkyo&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="160em"/>
+
+</div>
+
 <!-- Snake animation -->
 
 <img src="./img/snake.svg" alt="Snake animation"/>
