@@ -24,10 +24,9 @@
 </a>
 
 <!-- Github Stats-->
-### <img src="./img/github-white.svg" width="18"> GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xnotkyo&show_icons=true&theme=transparent&hide_title=true&icon_color=FFFFFF&text_color=999999&title_color=999999" height="140em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xnotkyo&show_icons=true&theme=transparent&hide_title=false&layout=compact&icon_color=999999&text_color=999999&title_color=999999" height="140em" />
+### TryhackMe Stats
+<a href="https://tryhackme.com/p/0xnotkyo">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/0xnotkyo.png" alt="Badge" />
 </div>
 
 <div align="center">
