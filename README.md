@@ -21,7 +21,7 @@
 <br/>
 
 <p>
-  Hello There! <em><b> I'm Najwa aka 0xnotkyo </b></em>, a Cybersecurity student. I enjoy learning new technologies and problem solving at HackTheBox and TryHackMe. Now I'm working at some little and fun projects while documenting my knowledge and journey on my Gitbook.
+  Hello There! <em><b> I'm Najwa </b></em>, a Cybersecurity student. I enjoy learning new technologies and problem solving at HackTheBox and TryHackMe. Now I'm working at some little and fun projects while documenting my knowledge and journey on my Gitbook.
 </p>
 
  <br/>
