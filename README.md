@@ -51,7 +51,7 @@
 
 <br/>
 
-<h2 align="center"> <img src="./img/title3.png" width="25"/> <em> Statistics </em> </h2>
+<h2 align="center"> <img src="./img/title3.png" width="25"/> <em> Stats </em> </h2>
 
 <p align="center">
   <a href="https://tryhackme.com/p/0xnotkyo">
