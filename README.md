@@ -28,9 +28,9 @@
 
 <p align="center">
    <img src="./img/cap.png" width="15"/>   <em><b> Self-taught Cybersecurity Student </b></em> <br/>
-   <img src="./img/shield.png" width="12"/>   <em><b> Passionate about Ethical Hacking and Cybersecurity </b></em><br/>
-   <img src="./img/light.png" width="15"/>   <em><b> Constantly exploring System Internals </b></em><br/>
-   <img src="./img/computer.png" width="15"/>   <em><b> Dedicated to CTF problem solving  </b></em><br/>
+   <img src="./img/shield.png" width="12"/>   <em><b> Passionate about Penetration Testing & Web App Hacking </b></em><br/>
+   <img src="./img/light.png" width="15"/>   <em><b> Focusing on Offensive Development </b></em><br/>
+   <img src="./img/computer.png" width="15"/>   <em><b> Interested in Malware Dev, Bug Bounty & CTFs </b></em><br/>
 </p>
 
 <br/>
