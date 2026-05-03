@@ -61,4 +61,8 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://count.getloli.com/@0xnotkyo?name=0xnotkyo&theme=rule34&padding=2&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt="Profile views" />
+</p>
+
 </div>
